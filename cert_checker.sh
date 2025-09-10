@@ -3,7 +3,7 @@
 # Author: Hristo Rusev
 
 CONFIG_FILE="websites.conf"
-ALERT_EMAIL="hristo.rusev92@gmail.com"
+ALERT_EMAIL="your.email@example.com"
 
 WARNING_DAYS=30
 CRITICAL_DAYS=15
