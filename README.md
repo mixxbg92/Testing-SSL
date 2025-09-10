@@ -45,6 +45,11 @@ TestingSSl/
 
 ## ⚙️ Configuration
 
+###Script configuration:
+Alert Email in the Script
+Open cert_checker.sh and edit the line near the top to set your alert recipient:
+**ALERT_EMAIL="your.email@example.com"
+**
 ### Websites
 Edit `websites.conf` to add the domains you want to monitor:
 
