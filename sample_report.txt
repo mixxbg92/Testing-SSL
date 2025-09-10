@@ -1,0 +1,20 @@
+SSL Certificate Report - Wed Sep 10 08:44:42 UTC 2025
+
+Checking: google.com
+🔑 Expiration date: Nov 10 08:40:08 2025 GMT (60 days left)
+✅ OK: Valid for 60 more days.
+----------------------------------------------------
+Checking: github.com
+🔑 Expiration date: Feb  5 23:59:59 2026 GMT (148 days left)
+✅ OK: Valid for 148 more days.
+----------------------------------------------------
+Checking: apple.com
+🔑 Expiration date: Nov  4 18:12:03 2025 GMT (55 days left)
+✅ OK: Valid for 55 more days.
+----------------------------------------------------
+Checking: www.sopharmacy.bg
+🔑 Expiration date: Sep 25 23:59:59 2025 GMT (15 days left)
+⚠️ WARNING: Expires in 15 days.
+----------------------------------------------------
+
+Summary: [SSL Report] 3 OK, 1 WARNING, 0 CRITICAL, 0 FAILED
