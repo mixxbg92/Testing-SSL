@@ -25,7 +25,8 @@ This project provides a **Bash-based SSL certificate checker** that:
 ---
 
 ## 📂 Project Structure
-TestingSSl/
+TestingSSl
+/
 ├── Dockerfile
 ├── cert_checker.sh
 ├── websites.conf
